@@ -34,6 +34,13 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+## 3. Link Foliage Component to Static Mesh Foliage
+### Look for "Actor Class to Spawn"
+### Note: The Options for which actors can be selected are only classes of "OSGBaseItemGather"
+<img src="LinkFoliageComponent.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ## 3. Link Foliage Component to Blueprint
 ### Look for "Actor Class to Spawn"
 ### Note: The Options for which actors can be selected are only classes of "OSGBaseItemGather"
