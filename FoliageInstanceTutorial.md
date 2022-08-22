@@ -18,18 +18,18 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Create-Actor-Blueprint
+## Create Actor Blueprint
 <img src="CreateActor.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
 
-## Create-Static-Mesh-Foliage-Component
+## Create Static Mesh Foliage Component
 <img src="FoliageComponent.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Link-Foliage-Component-to-Blueprint
+## Link Foliage Component to Blueprint
 <img src="LinkComponentToBlueprint.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
