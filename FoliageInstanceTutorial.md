@@ -34,12 +34,12 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Link Foliage Component to Blueprint
+## 3. Link Foliage Component to Blueprint
 <img src="LinkComponentToBlueprint.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Paint
+## 4. Paint
 1. Select Foliage Tool
 <img src="SelectFoliage.png"
      alt="Markdown Monster icon"
