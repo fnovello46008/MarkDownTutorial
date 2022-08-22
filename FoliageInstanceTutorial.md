@@ -38,7 +38,7 @@
 ### 1. Open the Static Mesh Foliage you created in step 1
 ### 2. Look for "Component Class"
 ### 3. Select the Static Mesh Foliage Component you created
-### Done
+### 4. Done
 <img src="LinkFoliageComponent.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
