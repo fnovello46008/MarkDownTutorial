@@ -35,3 +35,11 @@
      style="float: left; margin-right: 10px;" />
 
 ## Paint
+<img src="SelectFoliage.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="DrageFoliage.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
