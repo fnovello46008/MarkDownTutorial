@@ -44,6 +44,7 @@
      style="float: left; margin-right: 10px;" />
 
 ## 3. Link Foliage Component to Blueprint
+### 1. Open The Static Mesh Foliage Component
 ### Look for "Actor Class to Spawn"
 ### Note: The Options for which actors can be selected are only classes of "OSGBaseItemGather"
 <img src="LinkComponentToBlueprint.png"
