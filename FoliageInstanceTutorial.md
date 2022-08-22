@@ -40,18 +40,17 @@
      style="float: left; margin-right: 10px;" />
 
 ## 4. Paint
-1. Select Foliage Tool
+### 1. Select Foliage Tool
 <img src="SelectFoliage.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-2. Drage Newly Created Foliage into Pallet
+### 2. Drage Newly Created Foliage into Pallet
 <img src="DrageFoliage.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-3. Paint
-
+### 3. Paint
  <img src="paint.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
