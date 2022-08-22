@@ -29,7 +29,7 @@
      
 ## 3. Create Static Mesh Foliage Component
 ### 1. Create a ASFoliageStaticMeshInstanceComponent
-### This Instance Component will link the blueprint to the Static Mesh Foliage
+### Note: This Instance Component will link the blueprint to the Static Mesh Foliage
 <img src="FoliageComponent.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
