@@ -8,7 +8,7 @@
 
 # Table of Contents
 1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
-2. [Create Actor Blueprint](#Create-an-actor-Blueprint-that-is-derived-from-OSGBaseItemGather)
+2. [Create OSGBaseItemGather Actor Blueprint](#Create-an-actor-Blueprint-that-is-derived-from-OSGBaseItemGather)
 3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
 4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
 
