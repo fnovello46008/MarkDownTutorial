@@ -30,3 +30,6 @@
      style="float: left; margin-right: 10px;" />
 
 ## Link-Foliage-Component-to-Blueprint
+<img src="LinkComponentToBlueprint.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
