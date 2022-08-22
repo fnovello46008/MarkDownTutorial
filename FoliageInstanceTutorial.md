@@ -44,9 +44,8 @@
 <img src="DrageFoliage.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-
+     
 3. Paint
-
  <img src="paint.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
