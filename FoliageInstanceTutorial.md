@@ -8,12 +8,12 @@
 
 # Table of Contents
 1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
-2. [Example2](#example2)
+2. [Create Actor Blueprint](#Create-Actor-Blueprint)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
 ## Create-Static-Mesh-Foliage
-## Example2
+## Create-Actor-Blueprint
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
