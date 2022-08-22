@@ -14,7 +14,7 @@
 5. [Paint](#Paint)
 
 
-## Create Static Mesh Foliage
+## 1. Create Static Mesh Foliage
 ### Right Click in the content browser and select "Static Mesh Foliage"
 <img src="CreateFoliage.png"
      alt="Markdown Monster icon"
