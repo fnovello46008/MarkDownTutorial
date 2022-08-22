@@ -8,7 +8,7 @@
 
 # Table of Contents
 1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
-2. [Create an actor Blueprint that is derived from OSGBaseItemGather](#Create-an-actor-Blueprint-that-is-derived-from-OSGBaseItemGather)
+2. [Create an actor Blueprint](#Create-an-actor-Blueprint)
 3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
 4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
 
@@ -18,7 +18,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Create an actor Blueprint that is derived from OSGBaseItemGather
+## Create an Actor Blueprint
 <img src="CreateActor.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
