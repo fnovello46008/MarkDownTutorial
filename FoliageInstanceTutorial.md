@@ -16,7 +16,8 @@
 
 ## 1. Create Static Mesh Foliage
 ### 1. Right Click in the content browser and select "Static Mesh Foliage"
-### 2. Add the mesh in the dropdown
+### 2. Open the asset and add the mesh in the dropdown
+### *Note: This Mesh will be the same as the blueprint you will create in step 2
 ### Done
 <img src="CreateFoliage.png"
      alt="Markdown Monster icon"
@@ -24,8 +25,8 @@
 
 ## 2. Create an Actor Blueprint
 ### 1. Create an Actor Blueprint that is derived from OSGBaseItemGather
-### Note: The Foliage Instance Component only alows linking for classes that derive From OSGBaseItemGather
-### Note: Use the same Mesh you used to create the Static Mesh Foliage in step 1
+### *Note: The Foliage Instance Component only alows linking for classes that derive From OSGBaseItemGather
+### *Note: Use the same Mesh you used to create the Static Mesh Foliage in step 1
 ### Done
 <img src="CreateActor.png"
      alt="Markdown Monster icon"
