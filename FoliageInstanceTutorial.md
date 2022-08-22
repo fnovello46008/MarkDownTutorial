@@ -15,7 +15,7 @@
 
 
 ## Create Static Mesh Foliage
-# Right Click in the content browser and select "Static Mesh Foliage"
+### Right Click in the content browser and select "Static Mesh Foliage"
 <img src="CreateFoliage.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
