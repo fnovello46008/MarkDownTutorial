@@ -11,6 +11,7 @@
 2. [Create an Actor Blueprint](#Create-an-Actor-Blueprint)
 3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
 4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
+5. [Paint](#Paint)
 
 
 ## Create Static Mesh Foliage
@@ -32,3 +33,5 @@
 <img src="LinkComponentToBlueprint.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+## Paint
