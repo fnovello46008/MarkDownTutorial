@@ -21,6 +21,8 @@
      style="float: left; margin-right: 10px;" />
 
 ## Create an Actor Blueprint
+### Create an Actor Blueprint that is derived from OSGBaseItemGather
+### Note: The Foliage Instance Component only alows linking for classes that derive From OSGBaseItemGather
 <img src="CreateActor.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
