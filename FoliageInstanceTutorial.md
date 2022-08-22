@@ -13,7 +13,7 @@
 4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
 
 
-## Create-Static-Mesh-Foliage
+## Create Static Mesh Foliage
 <img src="CreateFoliage.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
