@@ -23,6 +23,7 @@
 ## 2. Create an Actor Blueprint
 ### Create an Actor Blueprint that is derived from OSGBaseItemGather
 ### Note: The Foliage Instance Component only alows linking for classes that derive From OSGBaseItemGather
+### Note: Use the same Mesh you used to create the Static Mesh Foliage in step 1
 <img src="CreateActor.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
