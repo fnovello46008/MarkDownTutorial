@@ -8,7 +8,7 @@
 
 # Table of Contents
 1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
-2. [Create an actor Blueprint](#Create-an-Actor-Blueprint)
+2. [Create an Actor Blueprint](#Create-an-Actor-Blueprint)
 3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
 4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
 
