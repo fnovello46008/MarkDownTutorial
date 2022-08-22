@@ -35,7 +35,7 @@
      style="float: left; margin-right: 10px;" />
 
 ## 3. Link Foliage Component to Static Mesh Foliage
-### Look for "Actor Class to Spawn"
+### Look for "Component Class"
 ### Note: The Options for which actors can be selected are only classes of "OSGBaseItemGather"
 <img src="LinkFoliageComponent.png"
      alt="Markdown Monster icon"
