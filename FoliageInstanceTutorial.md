@@ -7,10 +7,13 @@
 ## This is the tutorial to show you how to make a foliage instance that converts to a blueprint when the character gets close enough to the instance
 
 # Table of Contents
-1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
-2. [Create Actor Blueprint](#Create-Actor-Blueprint)
-3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
-4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
+- [Foliage Instance Tutorial](#foliage-instance-tutorial)
+  - [This is the tutorial to show you how to make a foliage instance that converts to a blueprint when the character gets close enough to the instance](#this-is-the-tutorial-to-show-you-how-to-make-a-foliage-instance-that-converts-to-a-blueprint-when-the-character-gets-close-enough-to-the-instance)
+- [Table of Contents](#table-of-contents)
+  - [Create Static Mesh Foliage](#create-static-mesh-foliage)
+  - [Create an Actor that is derived from OSGBaseItemGather Blueprint](#create-an-actor-that-is-derived-from-osgbaseitemgather-blueprint)
+  - [Create Static Mesh Foliage Component](#create-static-mesh-foliage-component)
+  - [Link Foliage Component to Blueprint](#link-foliage-component-to-blueprint)
 
 
 ## Create Static Mesh Foliage
