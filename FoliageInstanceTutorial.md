@@ -14,6 +14,11 @@
 
 
 ## Create-Static-Mesh-Foliage
+<img src="Create-Foliage.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ## Create-Actor-Blueprint
+
 ## Create-Static-Mesh-Foliage-Component
+
 ## Link-Foliage-Component-to-Blueprint
