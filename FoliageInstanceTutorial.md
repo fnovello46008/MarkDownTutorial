@@ -18,7 +18,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Create Actor Blueprint
+## Create an OSGBaseItemGather Blueprint
 <img src="CreateActor.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
