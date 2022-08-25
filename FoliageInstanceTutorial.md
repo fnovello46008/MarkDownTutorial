@@ -6,9 +6,9 @@
      
 ## This is the tutorial to show you how to make a foliage instance that converts to a blueprint when the character gets close enough to the instance
 
-## Naming Prefixes
-## SMFC - Static Mesh Foliage Component
-## SMF  - Static Mesh Foliage
+### Naming Prefixes
+### SMFC - Static Mesh Foliage Component
+### SMF  - Static Mesh Foliage
 
 # Table of Contents
 1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
