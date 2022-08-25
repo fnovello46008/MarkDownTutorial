@@ -16,6 +16,7 @@
 3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
 4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
 5. [Paint](#Paint)
+6. [Summary](#Summary)
 
 
 ## 1. Create Static Mesh Foliage
@@ -72,6 +73,11 @@
      style="float: left; margin-right: 10px;" />
 
 ### 3. Paint
+ <img src="paint.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+### Summary
  <img src="paint.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
