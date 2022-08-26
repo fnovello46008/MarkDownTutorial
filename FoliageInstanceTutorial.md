@@ -14,7 +14,7 @@
 1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
 2. [Create an Actor Blueprint](#Create-an-Actor-Blueprint)
 3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
-4. [Link Foliage Component](#Link-Foliage-Component-to-Foliage-and-Blueprint)
+4. [Link Foliage Component to Foliage and Blueprint](#Link-Foliage-Component-to-Foliage-and-Blueprint)
 5. [Paint](#Paint)
 6. [Summary](#Summary)
 
