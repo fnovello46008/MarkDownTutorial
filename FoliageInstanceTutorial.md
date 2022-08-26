@@ -57,7 +57,7 @@
      style="float: left; margin-right: 10px;" />
 
 # 3
-## Link Foliage Component to Foliage
+## Link Foliage Component to Foliage and Blueprint
 ### 1. Open the Static Mesh Foliage you created in step 1
 ### 2. Look for "Component Class"
 ### 3. Select the Static Mesh Foliage Component you created
