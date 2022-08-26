@@ -50,6 +50,11 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+### 2. Adjust Collision Settings
+<img src="FoliageCollisionSettings.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ## 3. Link Foliage Component to Static Mesh Foliage
 ### 1. Open the Static Mesh Foliage you created in step 1
 ### 2. Look for "Component Class"
