@@ -11,14 +11,14 @@
 #### SMF_  - Static Mesh Foliage
 
 # Table of Contents
-1. [Create Static Mesh Foliage](#1-Create-Static-Mesh-Foliage)
-2. [Create an Actor Blueprint](#2-Create-an-Actor-Blueprint)
-3. [Create Static Mesh Foliage Component](#C3-reate-Static-Mesh-Foliage-Component)
-4. [Link Foliage Component to Blueprint](#4-Link-Foliage-Component-to-Blueprint)
-5. [Paint](#5-Paint)
-6. [Summary](#6-Summary)
+1. [Create Static Mesh Foliage](#11.-Create-Static-Mesh-Foliage)
+2. [Create an Actor Blueprint](#2.-Create-an-Actor-Blueprint)
+3. [Create Static Mesh Foliage Component](#C3.-reate-Static-Mesh-Foliage-Component)
+4. [Link Foliage Component to Blueprint](#4.-Link-Foliage-Component-to-Blueprint)
+5. [Paint](#5.-Paint)
+6. [Summary](#6.-Summary)
 
-## Create Static Mesh Foliage
+## 1. Create Static Mesh Foliage
 ### 1. Right Click in the content browser and select "Static Mesh Foliage"
 ### 2. Open the asset and add the mesh in the dropdown
 ### *Note: This Mesh will be the same as the blueprint you will create in step 2
