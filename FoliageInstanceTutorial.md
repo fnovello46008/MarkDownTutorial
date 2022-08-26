@@ -28,7 +28,7 @@
      style="float: left; margin-right: 10px;" />
 
 ### 3. Adjust Collision Settings
-<img src="SMF_Collision Settings.png"
+<img src="FoliageCollisionSettings.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
