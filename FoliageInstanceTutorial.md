@@ -18,7 +18,6 @@
 5. [Paint](#Paint)
 6. [Summary](#Summary)
 
-# 1
 ## Create Static Mesh Foliage
 ### 1. Right Click in the content browser and select "Static Mesh Foliage"
 ### 2. Open the asset and add the mesh in the dropdown
@@ -34,7 +33,6 @@
 
 ### Done
 
-# 2
 ## Create an Actor Blueprint
 ### 1. Create an Actor Blueprint that is derived from OSGBaseItemGather
 ### *Note: The Foliage Instance Component only alows linking for classes that derive From OSGBaseItemGather
@@ -56,7 +54,6 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-# 3
 ## Link Foliage Component to Foliage and Blueprint
 ### 1. Open the Static Mesh Foliage you created in step 1
 ### 2. Look for "Component Class"
@@ -74,7 +71,6 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-# 5
 ## Paint
 ### 1. Select Foliage Tool
 <img src="SelectFoliage.png"
@@ -91,9 +87,4 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-# 6
 ### Summary
- <img src="paint.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
