@@ -66,7 +66,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-### 4. Link-Foliage-Component-to-Blueprint
+### 4. Link Foliage Component to Blueprint
 ### 5. Open The Static Mesh Foliage Component
 ### Look for "Actor Class to Spawn"
 ### Note: The Options for which actors can be selected are only classes of "OSGBaseItemGather"
