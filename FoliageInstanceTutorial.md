@@ -57,7 +57,7 @@
      style="float: left; margin-right: 10px;" />
 
 # 3
-## Link Foliage Component
+## Link Foliage Component to Foliage
 ### 1. Open the Static Mesh Foliage you created in step 1
 ### 2. Look for "Component Class"
 ### 3. Select the Static Mesh Foliage Component you created
@@ -66,8 +66,8 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## 3. Link-Foliage-Component-to-Blueprint
-### 1. Open The Static Mesh Foliage Component
+### 4. Link-Foliage-Component-to-Blueprint
+### 5. Open The Static Mesh Foliage Component
 ### Look for "Actor Class to Spawn"
 ### Note: The Options for which actors can be selected are only classes of "OSGBaseItemGather"
 <img src="LinkComponentToBlueprint.png"
