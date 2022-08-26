@@ -11,13 +11,12 @@
 #### SMF_  - Static Mesh Foliage
 
 # Table of Contents
-1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
-2. [Create an Actor Blueprint](#Create-an-Actor-Blueprint)
-3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
-4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
-5. [Paint](#Paint)
-6. [Summary](#Summary)
-
+1. [Create Static Mesh Foliage](#1-Create-Static-Mesh-Foliage)
+2. [Create an Actor Blueprint](#2-Create-an-Actor-Blueprint)
+3. [Create Static Mesh Foliage Component](#C3-reate-Static-Mesh-Foliage-Component)
+4. [Link Foliage Component to Blueprint](#4-Link-Foliage-Component-to-Blueprint)
+5. [Paint](#5-Paint)
+6. [Summary](#6-Summary)
 
 ## Create Static Mesh Foliage
 ### 1. Right Click in the content browser and select "Static Mesh Foliage"
@@ -34,7 +33,7 @@
 
 ### Done
 
-## 2. Create an Actor Blueprint
+## Create an Actor Blueprint
 ### 1. Create an Actor Blueprint that is derived from OSGBaseItemGather
 ### *Note: The Foliage Instance Component only alows linking for classes that derive From OSGBaseItemGather
 ### *Note: Use the same Mesh you used to create the Static Mesh Foliage in step 1
