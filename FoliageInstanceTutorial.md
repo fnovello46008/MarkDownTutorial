@@ -23,10 +23,16 @@
 ### 1. Right Click in the content browser and select "Static Mesh Foliage"
 ### 2. Open the asset and add the mesh in the dropdown
 ### *Note: This Mesh will be the same as the blueprint you will create in step 2
-### Done
 <img src="CreateFoliage.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+### 3. Adjust Collision Settings
+<img src="SMF_Collision Settings.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+### Done
 
 ## 2. Create an Actor Blueprint
 ### 1. Create an Actor Blueprint that is derived from OSGBaseItemGather
