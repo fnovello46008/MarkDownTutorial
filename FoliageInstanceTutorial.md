@@ -14,7 +14,7 @@
 1. [Create Static Mesh Foliage](#Create-Static-Mesh-Foliage)
 2. [Create an Actor Blueprint](#Create-an-Actor-Blueprint)
 3. [Create Static Mesh Foliage Component](#Create-Static-Mesh-Foliage-Component)
-4. [Link Foliage Component to Blueprint](#Link-Foliage-Component-to-Blueprint)
+4. [Link Foliage Component](#Link-Foliage-Component)
 5. [Paint](#Paint)
 6. [Summary](#Summary)
 
@@ -57,7 +57,7 @@
      style="float: left; margin-right: 10px;" />
 
 # 3
-## Link Foliage Component to Static Mesh Foliage
+## Link Foliage Component
 ### 1. Open the Static Mesh Foliage you created in step 1
 ### 2. Look for "Component Class"
 ### 3. Select the Static Mesh Foliage Component you created
@@ -66,7 +66,6 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-# 4
 ## 3. Link-Foliage-Component-to-Blueprint
 ### 1. Open The Static Mesh Foliage Component
 ### Look for "Actor Class to Spawn"
