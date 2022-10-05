@@ -77,8 +77,8 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-### 2. Drage Newly Created Foliage into Pallet
-<img src="DrageFoliage.png"
+### 2. Drag Newly Created Foliage into Pallet
+<img src="DragFoliage.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
